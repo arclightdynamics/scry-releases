@@ -9,9 +9,14 @@ Official installer downloads for **[Scry](https://enterscry.com)**, part of the
 
 ## Download
 
-Get the latest installer from the **[Releases page](../../releases/latest)**.
+**[⬇ Download Scry 1.0.0 for Windows](https://github.com/arclightdynamics/scry-releases/raw/main/Scry_1.0.0_x64-setup.exe)**
+— `Scry_1.0.0_x64-setup.exe` (9.2 MB, NSIS installer)
 
-- **Windows:** `Scry_<version>_x64-setup.exe` (NSIS installer)
+SHA-256: `107409159e8a0ab42baa5e35c762d64a3c3a18ea4ddbf7f739ea57769bf0accc`
+(see [`SHA256SUMS.txt`](./SHA256SUMS.txt))
+
+> The installer is hosted in-repo for now; it will move to **tagged GitHub
+> Releases** (with release notes + an auto-update feed) before wide launch.
 
 ### Heads-up: unsigned beta
 Scry isn't code-signed yet, so Windows SmartScreen shows an *"unknown publisher"*

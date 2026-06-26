@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0",
-  "notes": "Scry 1.0.0 — first release with built-in auto-update. Future versions install themselves.",
-  "pub_date": "2026-06-26T01:44:10Z",
+  "version": "1.0.1",
+  "notes": "Adds the Task Queue and the built-in Code editor / file-aware AI console.",
+  "pub_date": "2026-06-26T18:49:50.394Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZld0SzYyZDVzd1BSMjg3R0UwUUQ5SlRSekxqSzA4SzZGZHNCVjFaUmZ5T1c3KzY1SGM1WHpMa1Y1Rk1xU0dscm83aDFFRFFVRHdmMm5EU2toa0NpdGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDM4MTUzCWZpbGU6U2NyeV8xLjAuMF94NjQtc2V0dXAuZXhlCi9aUUdoNnhIb3gyaU00QVJYdk40S29yL1NTY2FiUkFmeVM1U2tuTlcrcXEyR0picHFmcG5KWTE1RmR2OXEwL1JqdENlNzVLZlgvbXZHTFhSNGMvNURnPT0K",
-      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZlQ3YVRIZzdFQUFRWFVXcnZ6VTMvdU9wRCttMFpNSU82UVQrMXZlNUlMTUlOZnVNRHNiV212cjVzTm5yQ0xEM1cvd0p2MlYzcjVwZEpXN3VnaGtWekFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDk5Nzg4CWZpbGU6U2NyeV8xLjAuMV94NjQtc2V0dXAuZXhlCnJDdjdweFNVNjR0WFV5eTFqQUEwNEpyU28yMlhQc3hoZDdUd0k0ZU5HaXBoU09vZFdkdlBtVk53bHV4TkVUYXg4VCswWlRXR1hhbzk2bk5FT05sOERBPT0K",
+      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.1_x64-setup.exe"
     }
   }
 }

@@ -48,15 +48,21 @@ resulting installer is published here.
 ## Auto-update
 
 Auto-update **is enabled**: installed copies fetch [`latest.json`](./latest.json)
-on launch and offer to self-update (signature-verified, then relaunch). To ship a
-new version:
+on launch and offer to self-update (signature-verified, then relaunch).
 
-1. In `scry`: bump the version, then build signed —
-   `TAURI_SIGNING_PRIVATE_KEY="$(cat ~/.scry-keys/updater.key)" npm run tauri build`
-2. Copy the new `Scry_<ver>_x64-setup.exe` here and update `latest.json`
-   (`version`, `pub_date`, `signature` from the new `.exe.sig`, `url`).
-3. Commit + push `main`. Installed apps pick it up on next launch.
+**To ship a new version — one command** (from the `scry` repo, after bumping the
+version in `src-tauri/tauri.conf.json` + `package.json`):
 
-The update-signing **private key** (`~/.scry-keys/updater.key`) is required for
-step 1 and must be kept secret + backed up — lose it and existing installs can no
-longer accept updates.
+```sh
+npm run publish-update                       # build signed → publish here → push
+npm run publish-update -- --notes "What changed"
+```
+
+It builds the signed installer, copies it here, regenerates `latest.json`
+(version, `pub_date`, signature, url) + `SHA256SUMS.txt`, and commits + pushes
+`main`. Installed apps then offer the update on next launch. (See
+`scry/scripts/publish-update.mjs`.)
+
+The update-signing **private key** (`~/.scry-keys/updater.key`) is required and
+must be kept secret + backed up — lose it and existing installs can no longer
+accept updates.

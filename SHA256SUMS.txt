@@ -1,1 +1,1 @@
-107409159e8a0ab42baa5e35c762d64a3c3a18ea4ddbf7f739ea57769bf0accc  Scry_1.0.0_x64-setup.exe
+9996b45334dac91d92e452c66f0bc76c8f29dbf0591b55d213cd84b2fe2ef4de  Scry_1.0.0_x64-setup.exe

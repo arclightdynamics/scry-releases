@@ -12,7 +12,7 @@ Official installer downloads for **[Scry](https://enterscry.com)**, part of the
 **[⬇ Download Scry 1.0.0 for Windows](https://github.com/arclightdynamics/scry-releases/raw/main/Scry_1.0.0_x64-setup.exe)**
 — `Scry_1.0.0_x64-setup.exe` (9.2 MB, NSIS installer)
 
-SHA-256: `107409159e8a0ab42baa5e35c762d64a3c3a18ea4ddbf7f739ea57769bf0accc`
+SHA-256: `9996b45334dac91d92e452c66f0bc76c8f29dbf0591b55d213cd84b2fe2ef4de`
 (see [`SHA256SUMS.txt`](./SHA256SUMS.txt))
 
 > The installer is hosted in-repo for now; it will move to **tagged GitHub
@@ -45,6 +45,18 @@ resulting installer is published here.
    ```
 3. Point the website's Download button at `releases/latest`.
 
-Auto-update is **not wired yet** — users update by downloading a newer installer.
-When ready, add the Tauri updater (minisign keypair + `latest.json` endpoint here)
-and the app will self-update.
+## Auto-update
+
+Auto-update **is enabled**: installed copies fetch [`latest.json`](./latest.json)
+on launch and offer to self-update (signature-verified, then relaunch). To ship a
+new version:
+
+1. In `scry`: bump the version, then build signed —
+   `TAURI_SIGNING_PRIVATE_KEY="$(cat ~/.scry-keys/updater.key)" npm run tauri build`
+2. Copy the new `Scry_<ver>_x64-setup.exe` here and update `latest.json`
+   (`version`, `pub_date`, `signature` from the new `.exe.sig`, `url`).
+3. Commit + push `main`. Installed apps pick it up on next launch.
+
+The update-signing **private key** (`~/.scry-keys/updater.key`) is required for
+step 1 and must be kept secret + backed up — lose it and existing installs can no
+longer accept updates.

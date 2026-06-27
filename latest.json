@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "Adds the Task Queue and the built-in Code editor / file-aware AI console.",
-  "pub_date": "2026-06-26T18:49:50.394Z",
+  "version": "1.0.2",
+  "notes": "Fixes a white screen after updating, adds a Resume-session prompt, pins agent sessions (keeps dangerous mode), and makes the AI console clearer.",
+  "pub_date": "2026-06-27T01:24:36.589Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZlQ3YVRIZzdFQUFRWFVXcnZ6VTMvdU9wRCttMFpNSU82UVQrMXZlNUlMTUlOZnVNRHNiV212cjVzTm5yQ0xEM1cvd0p2MlYzcjVwZEpXN3VnaGtWekFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNDk5Nzg4CWZpbGU6U2NyeV8xLjAuMV94NjQtc2V0dXAuZXhlCnJDdjdweFNVNjR0WFV5eTFqQUEwNEpyU28yMlhQc3hoZDdUd0k0ZU5HaXBoU09vZFdkdlBtVk53bHV4TkVUYXg4VCswWlRXR1hhbzk2bk5FT05sOERBPT0K",
-      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZllRcFVOVkNwcjZtZnBzUVhLUkZhd1BUNTlnaTlBbXVzdVYvWGl4L09meDV1b2ZPcnNJdjgzQmFGanRsbWpDL3lNbTNUdks4NzhTdElrSEdCWlhjRWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTIzNDc1CWZpbGU6U2NyeV8xLjAuMl94NjQtc2V0dXAuZXhlCkhSRzdGVy80Mm1uekJyaXlwejVJSk1Ta01zZXFxTUVIeU9SdU81S0VPZjNwZWxTcTh3bXdMQ1JoQThaRW14cHJWUWdaeUw0UDAyb3l5MkU4WXIvcER3PT0K",
+      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.2_x64-setup.exe"
     }
   }
 }

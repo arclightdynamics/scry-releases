@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "Git Manager (branch-chip repo modal), check-for-updates from Settings, Join-our-Discord links, and a fix for terminals freezing on their last frame when they finish on an inactive workspace.",
-  "pub_date": "2026-06-29T18:35:13.917Z",
+  "version": "1.0.4",
+  "notes": "Install & sign in to Claude Code / Codex from inside Scry, launch agents from the empty workspace and the split menu (with working-folder + override-mode options).",
+  "pub_date": "2026-06-29T20:39:08.719Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZlh1N0h1VmdHKzh6YVBVazlBQjZVTGdlc2RaaitWK1YzbjJSQkJOTU1SR0crbldnVnVpOVlwTVQxUHNoRjhyN0JYTUVxV2F0Y3hyclVmK01jdFBhdVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzU4MTEyCWZpbGU6U2NyeV8xLjAuM194NjQtc2V0dXAuZXhlCmNrbE02ay9WcG1pMVZaazlVWExzdjQ2WFBGRVFtK0xicitpREVCQjVmUnU0Myt0L0hEUDhYZ3Q5WEVvR2tZSTNRUkNCTVpuVk00Z1ZOVWh5UVhvQUJ3PT0K",
-      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZldtQ3R2S1dyZDlaT3gyK21YSEYweWFzRkNQSXNpVS9CUmFzbFJ2aHpXeGZ3T0hwak9UQkVjcE9xRi9OdVZZY01rT3FNQnhJeGtlM3Z6ZjExNUxyT1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzY1NTQ3CWZpbGU6U2NyeV8xLjAuNF94NjQtc2V0dXAuZXhlCkVSSDQ1eDhvNTV5RXFZcDIzamlHcHgxbUpiK21JczY1eWFDS3EzQjVUTHFIRU1vNWJOU3YzRk4vUW1GcDg0YUdla0ZCbkhoMmN5UWNPSjJpMmdCckNnPT0K",
+      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.4_x64-setup.exe"
     }
   }
 }

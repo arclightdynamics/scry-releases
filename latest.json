@@ -1,11 +1,11 @@
 {
-  "version": "1.0.4",
-  "notes": "Install & sign in to Claude Code / Codex from inside Scry, launch agents from the empty workspace and the split menu (with working-folder + override-mode options).",
-  "pub_date": "2026-06-29T20:39:08.719Z",
+  "version": "1.0.5",
+  "notes": "Native debugger pane (CodeLLDB, bundled) - breakpoints, stepping, call stack, variables. Run-executable launcher. Luac Lua validator extension. Rebindable keyboard shortcuts. Plus Windows path, web-pane, and desktop-mode fixes.",
+  "pub_date": "2026-06-29T23:59:26.039Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZldtQ3R2S1dyZDlaT3gyK21YSEYweWFzRkNQSXNpVS9CUmFzbFJ2aHpXeGZ3T0hwak9UQkVjcE9xRi9OdVZZY01rT3FNQnhJeGtlM3Z6ZjExNUxyT1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzY1NTQ3CWZpbGU6U2NyeV8xLjAuNF94NjQtc2V0dXAuZXhlCkVSSDQ1eDhvNTV5RXFZcDIzamlHcHgxbUpiK21JczY1eWFDS3EzQjVUTHFIRU1vNWJOU3YzRk4vUW1GcDg0YUdla0ZCbkhoMmN5UWNPSjJpMmdCckNnPT0K",
-      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZlNibmZ5cTc1Ri9JMVhXRFg0Y0xmSmdlMXZsVTZSOUFEQ00rcStISEljREdnVmc0WmdRVlRQU3pXdUpXTUJiYzFmdm45dTRSY1JFRk1HL28zam9qNWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzc3NTY0CWZpbGU6U2NyeV8xLjAuNV94NjQtc2V0dXAuZXhlClFWVTNVRXBzK1BRNGpqUG9NeklZVjBCRUlOSnE1ditpVXdmYjd6MGtzcXNUc0NhVXFZQm5HaENxUm9aNDkrZi9JeVQydGp4TVVFN0lIRGNIam9HQkR3PT0K",
+      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.5_x64-setup.exe"
     }
   }
 }

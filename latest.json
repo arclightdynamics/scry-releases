@@ -1,11 +1,11 @@
 {
-  "version": "1.0.5",
-  "notes": "Native debugger pane (CodeLLDB, bundled) - breakpoints, stepping, call stack, variables. Run-executable launcher. Luac Lua validator extension. Rebindable keyboard shortcuts. Plus Windows path, web-pane, and desktop-mode fixes.",
-  "pub_date": "2026-06-29T23:59:26.039Z",
+  "version": "1.0.6",
+  "notes": "Border FX animated pane borders, WSL Git Manager metacharacter fix, cross-column resize fix, signed-in harness status",
+  "pub_date": "2026-07-01T21:56:20.542Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZlNibmZ5cTc1Ri9JMVhXRFg0Y0xmSmdlMXZsVTZSOUFEQ00rcStISEljREdnVmc0WmdRVlRQU3pXdUpXTUJiYzFmdm45dTRSY1JFRk1HL28zam9qNWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNzc3NTY0CWZpbGU6U2NyeV8xLjAuNV94NjQtc2V0dXAuZXhlClFWVTNVRXBzK1BRNGpqUG9NeklZVjBCRUlOSnE1ditpVXdmYjd6MGtzcXNUc0NhVXFZQm5HaENxUm9aNDkrZi9JeVQydGp4TVVFN0lIRGNIam9HQkR3PT0K",
-      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.5_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZlJ1UjlqU1owcEs5V1MrbVU3VlNCcS81VlUxQTFQKzIyN2dqUGpNVWNId2pZa25idTRDYit2c25laXV2VXhzS2NSZ3hxdUloS0UvQlV1YThEczBuQXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTQyOTc5CWZpbGU6U2NyeV8xLjAuNl94NjQtc2V0dXAuZXhlClBKSnlFUFV4VUdqTTh2UlMvNWVLRyt0a0YrY0lqSlhDT0lkb3ZXc05tbDhTNkxGR0VSaTBoa2hPN2duREtFTTk2L1dVL2VtZDVRaTBlaXhGd2JwbEJRPT0K",
+      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.6_x64-setup.exe"
     }
   }
 }

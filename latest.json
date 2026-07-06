@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6",
-  "notes": "Border FX animated pane borders, WSL Git Manager metacharacter fix, cross-column resize fix, signed-in harness status",
-  "pub_date": "2026-07-01T21:56:20.542Z",
+  "version": "1.0.7",
+  "notes": "Anonymous usage analytics (opt-out toggle in Settings), native clipboard copy fix, wider pane launcher. Code-signing pipeline wired (first signed build coming once cert validation clears).",
+  "pub_date": "2026-07-06T18:29:08.300Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZlJ1UjlqU1owcEs5V1MrbVU3VlNCcS81VlUxQTFQKzIyN2dqUGpNVWNId2pZa25idTRDYit2c25laXV2VXhzS2NSZ3hxdUloS0UvQlV1YThEczBuQXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyOTQyOTc5CWZpbGU6U2NyeV8xLjAuNl94NjQtc2V0dXAuZXhlClBKSnlFUFV4VUdqTTh2UlMvNWVLRyt0a0YrY0lqSlhDT0lkb3ZXc05tbDhTNkxGR0VSaTBoa2hPN2duREtFTTk2L1dVL2VtZDVRaTBlaXhGd2JwbEJRPT0K",
-      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZlRURWdpMWhjcHNFSzJOMWlQUkZEb21ZdTcyd20zcmlwWGordCtPTUtFODZxS2Nra0ZVc3RoczB3NExyTUVtMFlVYnYvd0hIYU83U28rNGErWG9yZXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzMzYyNTQ2CWZpbGU6U2NyeV8xLjAuN194NjQtc2V0dXAuZXhlCjVhcjYvTWx5dE5xQXN1TzVwUmNrb09IYVQxUWQvRjllVnUySTk4YTJTbkdoNHZmVHJ0RFA4dXNWVVJqVTV2QWNOcFhrVzNwZXd4bmF2bEpNMUNEckR3PT0K",
+      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.7_x64-setup.exe"
     }
   }
 }

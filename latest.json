@@ -1,11 +1,11 @@
 {
-  "version": "1.0.8",
-  "notes": "Terminal speed overhaul (GPU rendering, smoother output under load), image pastes show a confirm card, optional sign-in (guest mode), link-click crash fix",
-  "pub_date": "2026-07-08T04:00:05.425Z",
+  "version": "1.0.9",
+  "notes": "Web panes fixed (blank pages, localhost URLs, drag tracking), desktop-mode icon columns + empty-window cleanup, image-paste keeps terminal focus + saving toast, Chronoflow clock extension",
+  "pub_date": "2026-07-11T07:18:00.848Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZlZQbmpSYTZhVzBsWDd1WHIxUHhZbVdQNXR4R283clJzRGZYVjIrZzMyUVFnbkJ1NHVNMnNacHhTL0pOY1htbVBRNVU1RUJXU1RCWDF0djlBRC8yK2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNDgzMjAzCWZpbGU6U2NyeV8xLjAuOF94NjQtc2V0dXAuZXhlCm5Ea2hBdTJRQVVMKzRKTzhKSktIa3FQM0ozQ0swcVRzRzM1MTd5VWx5UjB3NVFEcUZvODJ1Y1ZVM0dWZUxvZk1nVDlaQzVJTHRmanc1dzdBQUxBUUN3PT0K",
-      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZlpnMHRtT0wxWDk4b1pjM2NEamUveXV3dlJPelQvcVpQREIraGlXaG5MUFpFMlRnR0NZb2N0Qk1taWdTL1pnZVRCaXdOVWphUlVsY3NNbFY3NWFLTndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzU0Mjc4CWZpbGU6U2NyeV8xLjAuOV94NjQtc2V0dXAuZXhlCit2dEEzQk9yRG1Uc2ozc2huZ3NMREtOWXlVT3JVZU4vNFR6MDZkK2tWdGhGTnpQSVIyZThnVmh2MFU5cVRyTmRaSnF4ODQ5SWZxb1hHaGd4eUx0U0N3PT0K",
+      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.9_x64-setup.exe"
     }
   }
 }

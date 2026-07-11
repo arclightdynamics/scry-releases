@@ -1,11 +1,11 @@
 {
-  "version": "1.0.9",
-  "notes": "Web panes fixed (blank pages, localhost URLs, drag tracking), desktop-mode icon columns + empty-window cleanup, image-paste keeps terminal focus + saving toast, Chronoflow clock extension",
-  "pub_date": "2026-07-11T07:18:00.848Z",
+  "version": "1.0.10",
+  "notes": "Chronoflow radio (YouTube stations + editor), desktop-mode focus & dock menu, OSC 52 clipboard",
+  "pub_date": "2026-07-11T21:32:24.292Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZlpnMHRtT0wxWDk4b1pjM2NEamUveXV3dlJPelQvcVpQREIraGlXaG5MUFpFMlRnR0NZb2N0Qk1taWdTL1pnZVRCaXdOVWphUlVsY3NNbFY3NWFLTndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzNzU0Mjc4CWZpbGU6U2NyeV8xLjAuOV94NjQtc2V0dXAuZXhlCit2dEEzQk9yRG1Uc2ozc2huZ3NMREtOWXlVT3JVZU4vNFR6MDZkK2tWdGhGTnpQSVIyZThnVmh2MFU5cVRyTmRaSnF4ODQ5SWZxb1hHaGd4eUx0U0N3PT0K",
-      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZmNKc1J1WWx6TitlaVplUG9aNUVLY2Eya1pWcWxhWTRzMmxFRFR3Zm9xR3BwdzRYTVJyQ2gvQUlDU1Y3eXdjejNBVmZVV2V0NW9JNlBxVU1iWFpoK1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODA1NTQyCWZpbGU6U2NyeV8xLjAuMTBfeDY0LXNldHVwLmV4ZQo2OEI2eHZ0RmJKS1lmWldNMW9LOEs1K3BsUSs5ZHEzZHNsN2tXaDZ5bVpZYVJPWUxLbXVOdHNxNjZPb05jeGgwQ0dwV3o4VlAzRWZveUdTdHYyQ2tCUT09Cg==",
+      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.10_x64-setup.exe"
     }
   }
 }

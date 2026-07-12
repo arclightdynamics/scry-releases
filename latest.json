@@ -1,11 +1,11 @@
 {
-  "version": "1.0.10",
-  "notes": "Chronoflow radio (YouTube stations + editor), desktop-mode focus & dock menu, OSC 52 clipboard",
-  "pub_date": "2026-07-11T21:32:24.292Z",
+  "version": "1.0.11",
+  "notes": "Extension updates: timeouts, robust swap, live reload after update. Desktop mode: web panes stay visible across window focus changes.",
+  "pub_date": "2026-07-12T00:51:11.652Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZmNKc1J1WWx6TitlaVplUG9aNUVLY2Eya1pWcWxhWTRzMmxFRFR3Zm9xR3BwdzRYTVJyQ2gvQUlDU1Y3eXdjejNBVmZVV2V0NW9JNlBxVU1iWFpoK1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODA1NTQyCWZpbGU6U2NyeV8xLjAuMTBfeDY0LXNldHVwLmV4ZQo2OEI2eHZ0RmJKS1lmWldNMW9LOEs1K3BsUSs5ZHEzZHNsN2tXaDZ5bVpZYVJPWUxLbXVOdHNxNjZPb05jeGgwQ0dwV3o4VlAzRWZveUdTdHYyQ2tCUT09Cg==",
-      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.10_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZlRXdmdMc2RBV25iS2o3d0NYSjVhYjZtM250bkFzL09xN21TY0xocmdkcUduSGNHMDJTVXdXVXUxNlVacHRGMlpEY3pFOVNsRmk0c2U5eHhXS0JlS0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODE3NDcwCWZpbGU6U2NyeV8xLjAuMTFfeDY0LXNldHVwLmV4ZQpZbVVsT0ptZzNsaWxjaEtJRWVOV0dmYlhRYTd2MDBVMDFYclFVV3dQeXFBV1J5WEMwWUxYOXZQVkl3KzZ1eHpBOUdzZVRKL3BGYVpJOFZzaGErKzFDdz09Cg==",
+      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.11_x64-setup.exe"
     }
   }
 }

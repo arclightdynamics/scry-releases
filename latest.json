@@ -1,11 +1,11 @@
 {
-  "version": "1.0.11",
-  "notes": "Extension updates: timeouts, robust swap, live reload after update. Desktop mode: web panes stay visible across window focus changes.",
-  "pub_date": "2026-07-12T00:51:11.652Z",
+  "version": "1.1.0",
+  "notes": "Scry 1.1.0",
+  "pub_date": "2026-07-17T14:51:55.303Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZlRXdmdMc2RBV25iS2o3d0NYSjVhYjZtM250bkFzL09xN21TY0xocmdkcUduSGNHMDJTVXdXVXUxNlVacHRGMlpEY3pFOVNsRmk0c2U5eHhXS0JlS0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgzODE3NDcwCWZpbGU6U2NyeV8xLjAuMTFfeDY0LXNldHVwLmV4ZQpZbVVsT0ptZzNsaWxjaEtJRWVOV0dmYlhRYTd2MDBVMDFYclFVV3dQeXFBV1J5WEMwWUxYOXZQVkl3KzZ1eHpBOUdzZVRKL3BGYVpJOFZzaGErKzFDdz09Cg==",
-      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.0.11_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZmZkYUJlSklITVlIRGNuSXNiOVBpdEFOVVhqWG96QkZXaHFDSlVrTFE2NzRvc2hQRkdESXI2WWFUdXd5WXN5SjBSSkVnbnN6dXJicXhGeHQ2UTJXSXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Mjk5OTEzCWZpbGU6U2NyeV8xLjEuMF94NjQtc2V0dXAuZXhlClhEQ3lRY2c0KzQzZDlaS2FyNVIyWXFLNmhvOHE1QnVsWngvQnZudUJzeVNwVWk4THZyK1hIczJGRjJNR2RJbmFQRSt2dkc2YzdCUkVTcGN4c0Y1RkNnPT0K",
+      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.1.0_x64-setup.exe"
     }
   }
 }

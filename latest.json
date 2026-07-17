@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "notes": "Scry 1.1.0",
-  "pub_date": "2026-07-17T14:51:55.303Z",
+  "version": "1.1.1",
+  "notes": "Scry 1.1.1",
+  "pub_date": "2026-07-17T15:15:36.570Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZmZkYUJlSklITVlIRGNuSXNiOVBpdEFOVVhqWG96QkZXaHFDSlVrTFE2NzRvc2hQRkdESXI2WWFUdXd5WXN5SjBSSkVnbnN6dXJicXhGeHQ2UTJXSXdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0Mjk5OTEzCWZpbGU6U2NyeV8xLjEuMF94NjQtc2V0dXAuZXhlClhEQ3lRY2c0KzQzZDlaS2FyNVIyWXFLNmhvOHE1QnVsWngvQnZudUJzeVNwVWk4THZyK1hIczJGRjJNR2RJbmFQRSt2dkc2YzdCUkVTcGN4c0Y1RkNnPT0K",
-      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUNFhvM0twck0vZlp0RVpKUVA1WFBqUDJsaFNBVms1WCs1bUpDUVdpN2NZUG5KbXNtZ2V1NFd2dU1CWVpxdXJpT2R2TkFYTklQbGZJREJPYmtzSXVBVHEwVmRmK2hFSFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MzAxMzM1CWZpbGU6U2NyeV8xLjEuMV94NjQtc2V0dXAuZXhlCk5kSDJYcE00eGpBZUx2dStOV250VWxGNjM1emJOSHhlK3FZMlJhR2hjZXZZMGVxOXJsQ1ZOOVVVQ29OTW1FSFFCR3FnN29WaVJneGh0RXdmMnNmNEFnPT0K",
+      "url": "https://raw.githubusercontent.com/arclightdynamics/scry-releases/main/Scry_1.1.1_x64-setup.exe"
     }
   }
 }
